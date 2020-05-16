@@ -1,4 +1,4 @@
-# MapFixer
+# MapFixer - Deathrun mod support
 
 Installation:
   - Copy content from folder 'cod4' to your base cod4 folder (where iw3mp.exe is located)
