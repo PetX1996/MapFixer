@@ -16,3 +16,5 @@ Parameters:
 -FSGameFolderNameLog="Mods\deathrun_out" 
 -FSGameFolderNameOutputs="Mods\deathrun_out" 
 -FSGameFolderNameOutputs="Mods\deathrun"
+
+Developed around 2014-05-18.
